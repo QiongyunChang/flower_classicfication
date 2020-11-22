@@ -13,7 +13,7 @@ use `python 3.6.9`, `torch==1.6.0`
 We use [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) dataset.
 This is collected by Alexander Mamaev.
 
-**Abstrct**  
+**Abstract**  
 
 This dataset contains 4323 images of flowers.
 The data collection is based on the data flicr, google images, yandex images.
