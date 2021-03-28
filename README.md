@@ -3,8 +3,8 @@ flower classification
 
 use `python 3.6.9`, `torch==1.6.0`
 
-!python --version
-!pip freeze | grep torch
+`!python --version`
+`!pip freeze | grep torch`
 
 
 
